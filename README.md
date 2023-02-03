@@ -9,6 +9,7 @@
 - JavaScript
 - React.js
 - Webpack
+
 Планирую освоить:
 - Node.js
 - Typescript
